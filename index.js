@@ -23,4 +23,4 @@ let score = 0;
             setTimeout(() => bubble.remove(), 5000);
         }
 
-        setInterval(createBubble, 800);                    
+        setInterval(createBubble, 500);                    
