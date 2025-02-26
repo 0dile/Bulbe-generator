@@ -22,6 +22,7 @@ body {
     cursor: pointer;
     width: 100vh;
     overflow: hidden;
+    opacity: 0.2;
     
 }
 @keyframes float {
